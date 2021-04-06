@@ -1,0 +1,36 @@
+.heading {
+    font-size: 23px;
+    width: 90%;
+    background-color:black;
+    margin: 0px;
+    color:white;
+    box-shadow: 5px 5px 5px white;
+}
+
+.heading:hover{
+    color:white;
+}
+
+.note {
+    font-size: 16px;
+    color: red;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    background-color: burlywood;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    text-align: center;
+    font-size: 19px;
+   
+}
+
+canvas {
+    border: 5px solid hotpink;
+    border-radius: 25px;
+    
+    padding:20px;
+}
